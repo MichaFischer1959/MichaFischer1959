@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 - My Name ist Michael and I am a Beginner :-) with git
 
 <!--
 **MichaFischer1959/MichaFischer1959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Mastodon
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/FiMi?domain=mastodon.social&style=for-the-badge)](https://mastodon.social/@mizifi)
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/mizifi?domain=mastodon.social&style=for-the-badge)
+# Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaFischer1959)](https://github.com/anuraghazra/github-readme-stats)
