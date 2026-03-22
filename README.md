@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Mastodon Follow](https://img.shields.io/mastodon/follow/%40mizifi%40mastodon.social)
