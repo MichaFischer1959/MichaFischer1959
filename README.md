@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/%40mizifi%40mastodon.social)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/mizifi%40mastodon.social)
