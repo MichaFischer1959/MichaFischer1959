@@ -25,10 +25,10 @@ Somehow Mastodon Link does not work yet ... but i will try to fix it as soon as 
 # Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaFischer1959)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 # Facebook
 [![Static Badge](https://img.shields.io/badge/:badgeContent&style=for-the-badge)](https://facebook.com/Wutzelmann)
 
+<!--
 # Instagram
 [![Static Badge](https://img.shields.io/badge/:badgeContent&style=for-the-badge)](https://www.instagram.com)
 
